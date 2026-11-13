@@ -13,9 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nouman642/myleetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/nouman642/myleetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/nouman642/myleetcode/tree/master/1512-number-of-good-pairs) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nouman642/myleetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
