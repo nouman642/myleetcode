@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/nouman642/myleetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/nouman642/myleetcode/tree/master/0088-merge-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/nouman642/myleetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/nouman642/myleetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/nouman642/myleetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/nouman642/myleetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/nouman642/myleetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/nouman642/myleetcode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
