@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/nouman642/myleetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/nouman642/myleetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nouman642/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1470-shuffle-the-array](https://github.com/nouman642/myleetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/nouman642/myleetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/nouman642/myleetcode/tree/master/0065-valid-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nouman642/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
