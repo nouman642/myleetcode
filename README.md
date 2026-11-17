@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/nouman642/myleetcode/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nouman642/myleetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/nouman642/myleetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/nouman642/myleetcode/tree/master/0065-valid-number) |
+| [0412-fizz-buzz](https://github.com/nouman642/myleetcode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/nouman642/myleetcode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/nouman642/myleetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
