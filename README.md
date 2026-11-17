@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nouman642/myleetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/nouman642/myleetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nouman642/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/nouman642/myleetcode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/nouman642/myleetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/nouman642/myleetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/nouman642/myleetcode/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/nouman642/myleetcode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/nouman642/myleetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/nouman642/myleetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/nouman642/myleetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
