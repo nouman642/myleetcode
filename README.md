@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/nouman642/myleetcode/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nouman642/myleetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/nouman642/myleetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/nouman642/myleetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/nouman642/myleetcode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/nouman642/myleetcode/tree/master/1603-design-parking-system) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/nouman642/myleetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
